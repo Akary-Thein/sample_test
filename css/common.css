@@ -1,0 +1,30 @@
+ul.nav {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+margin-bottom: 50px;
+background: rgba(42,50,113, .28);
+}
+ul.nav li {
+float: left;
+}
+ul.nav li a {
+display: block;
+color: #fff;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+ul.nav li a:hover {
+color: #201e40;
+}
+ul.nav li a.active{
+color: #201e40;	
+}
+h1 {
+color: #6cacc5;
+font-weight: 300;
+margin: 0;
+text-align: center;
+}
